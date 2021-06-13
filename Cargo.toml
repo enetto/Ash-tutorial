@@ -16,4 +16,21 @@ tobj      = "0.1.10"
 
 [[bin]]
 name = "01"
+<<<<<<< HEAD
 path = "src/tutorial/01_instance_creation.rs"
+=======
+<<<<<<< HEAD
+path = "src/tutorial/01_instance_creation.rs"
+=======
+path = "src/tutorial/01_instance_creation.rs"
+[[bin]]
+name = "02"
+path = "src/tutorial/02_validation_layers.rs"
+[[bin]]
+name = "03"
+path = "src/tutorial/03_physical_device_selection.rs"
+[[bin]]
+name = "04"
+path = "src/tutorial/04_logical_device.rs"
+>>>>>>> e689504 (add Files)
+>>>>>>> 063cfd8 (add Files)
